@@ -4,5 +4,5 @@
 - 📫 How to reach me: https://www.linkedin.com/in/gettealan
 
 ### SKills<br>
-`Java` `Node.js` `Golang` `Angular` `Javascript`
+`ReacJs` `Java` `Node.js` `Golang` `Angular` `Javascript`
 
