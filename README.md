@@ -1,4 +1,4 @@
-## Hi there, I'm Gette Alan 👋
+## Gette Alan Exequiel
 ### Software Egineer
 
 - 📫 How to reach me: https://www.linkedin.com/in/gettealan
