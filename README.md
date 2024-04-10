@@ -5,5 +5,5 @@
 - 📫 Demos: https://www.gettealan.com/
 
 ### SKills<br>
-`ReacJs` `Node.js` `JavaScript` `TypeScript` `Angular` `Java` `Spring Boot` `Golang`  
+`ReacJs` `Node.js` `JavaScript` `TypeScript` `Java` `Spring Boot` `Golang` `AWS` 
 
